@@ -1,5 +1,5 @@
 # natours
-Example website that I coded following online course 
+Example website coded through online course 
 
 ## Technologies HTML-5, CSS3, Javascript. 
 
