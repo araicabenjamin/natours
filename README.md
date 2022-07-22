@@ -1,4 +1,4 @@
-# natours
+# Natours
 Example website coded through online course.
 
 ## Technologies 
